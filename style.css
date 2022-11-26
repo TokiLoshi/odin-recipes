@@ -1,6 +1,9 @@
-.front-image {
+.img-container {
   display: flex;
   justify-content: center;
+}
+
+.front-image {
   border: 1px solid;
 }
 a {
@@ -11,4 +14,17 @@ a:hover{
   cursor: pointer;
   text-decoration: underline;
   color: #554b4b;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.links {
+  display: block;
+  justify-content: center;
+}
+ul {
+  margin-block-start: 2em;
+  margin-inline-start: 250px;
+  font-size: 24px;
 }
