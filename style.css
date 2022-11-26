@@ -1,3 +1,8 @@
+body{
+  background-color: rgb(112, 112, 249);
+  font-family: Verdana, sans-serif;
+}
+
 .img-container {
   display: flex;
   justify-content: center;
