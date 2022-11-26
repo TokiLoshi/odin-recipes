@@ -1,0 +1,14 @@
+.front-image {
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+}
+a {
+  text-decoration: None;
+  color: #000000;
+}
+a:hover{
+  cursor: pointer;
+  text-decoration: underline;
+  color: #554b4b;
+}
