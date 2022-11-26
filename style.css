@@ -15,7 +15,7 @@ a:hover{
   text-decoration: underline;
   color: #554b4b;
 }
-h1 {
+h1, h3 {
   font-family: sans-serif;
   text-align: center;
 }
@@ -27,4 +27,17 @@ ul {
   margin-block-start: 2em;
   margin-inline-start: 250px;
   font-size: 24px;
+}
+img {
+  width: 400px;
+  border: 1px solid;
+}
+p {
+  margin: 20px;
+  font-siz: 24px;
+}
+.ingredients {
+  margin-block-start: 2em;
+  margin-inline-start: 20px;
+  font-size: 18px;
 }
